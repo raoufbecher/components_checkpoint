@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+  
+}
+
+.navbar{padding-left: 15%;
+display: flex;}
+.form-inline{
+  display: flex;
+justify-content: flex-end;
+  }
+.picture{
+  height: 300px;
+  width: 250px;
+}
